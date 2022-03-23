@@ -1,0 +1,23 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color:black;
+    margin: 15px;
+}
+.box:hover {
+    cursor: pointer;
+}
+#container {
+    margin: 100px auto;
+    width: 520px;
+    height: 520px;
+    background-color: rgb(204, 204, 204);
+    display: flex;
+    flex-wrap: wrap;
+}
+.boxToggle {
+    width: 100px;
+    height: 100px;
+    background-color:rgb(83, 83, 83);
+    margin: 15px;
+}
